@@ -1,4 +1,6 @@
-<img src="https://www.dropbox.com/s/oob6iarmmdm5n5c/SWAG-1.png?raw=1" align="left" height="" width="100%" />  
+<img src="https://uploads-ssl.webflow.com/61df40e8ff2202021755e0c9/638e716e9cd4ab8805285496_northernlights-mochups.jpg" width="100%" />  
+<img src="https://uploads-ssl.webflow.com/61df40e8ff2202021755e0c9/639b5ff21e510e520b3d6d83_Horizontal_Book_Mockup_2%20(Medium).png" width="100%" />
+<img src="https://uploads-ssl.webflow.com/61df40e8ff2202021755e0c9/62d11dd8e8be95f70a43ff46_Untitled-1.jpg" width="100%" />
 
 <br/>
 
@@ -7,7 +9,7 @@
 <p>
   <br />
 I
-help businesses and professionals develop a clearer understanding of the technologies effecting their business. Client interests are protected by our end-to-end unilateral non-disclosure agreement. No exceptions.
+help businesses and professionals understand the technology that effects their business. Client interests are protected by our end-to-end unilateral non-disclosure agreement. No exceptions.
 
 
 
