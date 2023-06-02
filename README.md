@@ -1,5 +1,5 @@
 # Northern Lights Condos #
-Credit to <a href="https://trekarch.com/northern-lights-condos">TREK ARCHITECTURE</a> out of Spokane, WA.
+Credit to <a href="https://trekarch.com/northern-lights-condos">TREK ARCHITECTURE</a> Spokane, WA.
 
 <img src="https://uploads-ssl.webflow.com/61df40e8ff2202021755e0c9/638e716e9cd4ab8805285496_northernlights-mochups.jpg" width="100%" />  
 <img src="https://uploads-ssl.webflow.com/61df40e8ff2202021755e0c9/639b5ff21e510e520b3d6d83_Horizontal_Book_Mockup_2%20(Medium).png" width="100%" />
